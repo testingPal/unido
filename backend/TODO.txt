@@ -1,0 +1,14 @@
+| Cargo                          | C
+| Cliente                        | C
+| DetallesVenta                  | C
+| Empleado                       | C
+| Plato                          | C
+| Provision                      | C
+| TipoUsuario                    | C
+| Usuario                        | C
+| Venta                          | C
+
+
+- Encripar y desencriptar contraseña
+- Validación de campos desde SQL
+- Proteger rutas
